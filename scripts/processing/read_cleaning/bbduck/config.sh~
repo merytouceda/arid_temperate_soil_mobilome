@@ -1,0 +1,5 @@
+#!/bin/bash -l  
+IN_LIST="/groups/egornish/mtoucedasuarez/scripts/jobs/mge/base/sample_list_second_head_no001.txt"
+READS_DIR="/xdisk/barberan/mtoucedasuarez/base/raw_reads"
+OUT_DIR="/xdisk/egornish/mtoucedasuarez/base/bbduck"
+REF_FILE="/home/u14/mtoucedasuarez/software/bbmap/resources/adapters.fa"

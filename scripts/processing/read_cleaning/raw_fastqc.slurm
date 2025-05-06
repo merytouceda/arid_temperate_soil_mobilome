@@ -1,0 +1,27 @@
+#!/usr/bin/bash
+# --------------------------------------------------
+# Request resources here
+# --------------------------------------------------
+#SBATCH --job-name=raw_fastqc_combined
+#SBATCH --output=%x.out
+#SBATCH --error=%x.err 
+#SBATCH --account=gornish
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user=mtoucedasuarez@hpc.arizona.edu
+#SBATCH --partition=standard
+#SBATCH --ntasks=16
+#SBATCH --nodes=1
+#SBATCH --mem=64gb
+#SBATCH --time=50:00:00
+
+# --------------------------------------------------
+# Load modules here
+# --------------------------------------------------
+module load fastqc
+
+# --------------------------------------------------
+# Execute commands here
+# --------------------------------------------------
+cd /xdisk/barberan/mtoucedasuarez/base/raw_reads/combined
+
+fastqc -o ./fastqc -t 28 ./*.fastq.gz

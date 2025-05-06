@@ -1,0 +1,25 @@
+#!/bin/bash
+# --------------------------------------------------
+# Request resources here
+# --------------------------------------------------
+#SBATCH --job-name=acn_sortmerna_r
+#SBATCH --output=acn_sortmerna_r.out
+#SBATCH --error=acn_sortmerna_r.err 
+#SBATCH --account=gornish
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user=mtoucedasuarez@hpc.arizona.edu
+#SBATCH --partition=standard
+#SBATCH --ntasks=10
+#SBATCH --nodes=1
+#SBATCH --mem=50gb
+#SBATCH --time=02:00:00
+
+module load R
+
+ACN_DIR="/xdisk/egornish/mtoucedasuarez/base/trait/acn"
+JOB_DIR="/groups/egornish/mtoucedasuarez/scripts/jobs/mge/base/trait_pipeline/acn_final_steps"
+SORTMERNA_DB_DIR="/xdisk/egornish/mtoucedasuarez/databases/sortmerna"
+
+# Usage: 
+# Rscript acn_sortmerna_executable.R [working directory] [pattern blast] [sortmerna bac_arch list]
+Rscript $JOB_DIR/acn_sortmerna_executable.R $ACN_DIR "*blast*" $SORTMERNA_DB_DIR/smr_v4.3_bac_archaea.txt 

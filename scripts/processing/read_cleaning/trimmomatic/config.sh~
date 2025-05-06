@@ -1,0 +1,6 @@
+#!/bin/bash -l  
+#IN_LIST="/groups/egornish/mtoucedasuarez/scripts/jobs/mge/base/sample_list_1.txt"
+IN_LIST="/groups/egornish/mtoucedasuarez/scripts/jobs/mge/base/samples_combined_list.txt"
+IN_DIR="/xdisk/egornish/mtoucedasuarez/base/bbduck"
+OUT_DIR="/xdisk/egornish/mtoucedasuarez/base/trimmomatic/combined"
+

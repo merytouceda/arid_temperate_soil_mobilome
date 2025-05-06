@@ -1,0 +1,20 @@
+#!/bin/bash -l
+
+#IN_LIST="/groups/egornish/mtoucedasuarez/scripts/jobs/mge/base/samples_combined_keep.txt"
+IN_LIST="/groups/egornish/mtoucedasuarez/scripts/jobs/mge/base/sample_list_test.txt"
+
+# File paths
+CLEAN_READS_DIR="/xdisk/egornish/mtoucedasuarez/base/trimmomatic/combined"
+INTERLEAVED_READS_DIR="/xdisk/egornish/mtoucedasuarez/base/trimmomatic/combined/interleaved"
+SORTMERNA_OUTPUT_DIR="/xdisk/egornish/mtoucedasuarez/base/trait/sortmerna"
+SORTMERNA_DB_DIR="/xdisk/egornish/mtoucedasuarez/databases/sortmerna"
+
+AGS_DIR="/xdisk/egornish/mtoucedasuarez/base/trait/ags"
+ACN_DIR="/xdisk/egornish/mtoucedasuarez/base/trait/acn"
+
+
+# Software paths
+BBMAP_DIR="/groups/barberan/software/bbmap"
+FGSPP_DIR="/groups/barberan/software/FragGeneScanPlusPlus"
+UPROC_DIR="/groups/barberan/software/uproc-1.2.0"
+UPROC_DB_DIR="/xdisk/egornish/mtoucedasuarez/databases/uproc"

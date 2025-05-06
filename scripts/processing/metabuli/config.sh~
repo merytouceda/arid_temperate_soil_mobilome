@@ -1,0 +1,6 @@
+#!/bin/bash -l   
+SLURM_SUBMIT_DIR="/groups/egornish/mtoucedasuarez/scripts/jobs/mge/base/metabuli"
+IN_LIST="/groups/egornish/mtoucedasuarez/scripts/jobs/mge/base/samples_combined_keep.txt"
+DB_DIR="/xdisk/egornish/mtoucedasuarez/databases/metabuli/refseq_prokaryote_virus"
+OUT_DIR="/xdisk/egornish/mtoucedasuarez/base/metabuli/plasmids"
+CONTIGS_DIR="/xdisk/egornish/mtoucedasuarez/base/combined_assembly/contigs/mge_contigs"

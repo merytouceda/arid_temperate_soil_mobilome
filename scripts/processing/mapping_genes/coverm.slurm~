@@ -1,0 +1,36 @@
+#!/bin/bash
+# --------------------------------------------------
+# Request resources here
+# --------------------------------------------------
+#SBATCH --job-name=coverm_genes
+#SBATCH --output=%x.out
+#SBATCH --error=%x.err 
+#SBATCH --account=barberan
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user=mtoucedasuarez@hpc.arizona.edu
+#SBATCH --partition=standard
+#SBATCH --ntasks=40
+#SBATCH --nodes=1
+#SBATCH --mem-per-cpu=32gb
+#SBATCH --constraint=hi_mem
+#SBATCH --time=24:00:00
+
+# --------------------------------------------------
+# Load modules here
+# --------------------------------------------------
+module load anaconda
+source ~/.bashrc && conda activate
+conda activate coverm
+# --------------------------------------------------
+# Execute commands here
+# --------------------------------------------------
+
+cd /xdisk/egornish/mtoucedasuarez/base/mapping_genes/bacteria
+# require >=95% identity and 45 bp overlap, generate gene count table
+
+TMPDIR=. coverm contig -b *.bam \
+-t 40 \
+-m count \
+--min-read-percent-identity 0.95 \
+--min-read-aligned-length 45 \
+-o bact_genes_count_table.txt

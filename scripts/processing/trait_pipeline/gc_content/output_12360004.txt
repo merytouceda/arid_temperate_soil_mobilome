@@ -1,0 +1,3 @@
+Start time: 1741223252
+Success! Job completed in 58 seconds
+Output is available at: /xdisk/egornish/mtoucedasuarez/base/trait/gc

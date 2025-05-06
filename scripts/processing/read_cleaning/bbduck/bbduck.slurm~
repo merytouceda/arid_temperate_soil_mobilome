@@ -1,0 +1,33 @@
+#!/usr/bin/bash
+# --------------------------------------------------
+# Request resources here
+# --------------------------------------------------
+#SBATCH --job-name=bbduck_array_headno001
+#SBATCH --output=output_head_no100_%j.txt
+#SBATCH --error=errors_head_no100_%j.txt
+#SBATCH --account=gornish
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user=mtoucedasuarez@hpc.arizona.edu
+#SBATCH --partition=standard  
+#SBATCH --time=06:00:00
+#SBATCH --ntasks=1
+#SBATCH --nodes=1
+#SBATCH --cpus-per-task=12
+#SBATCH --mem-per-cpu=5000
+
+# --------------------------------------------------
+# Load modules here
+# --------------------------------------------------
+
+# --------------------------------------------------
+# Execute commands here
+# --------------------------------------------------
+# import config file and read list samples
+source /groups/egornish/mtoucedasuarez/scripts/jobs/mge/base/read_cleaning/bbduck/config.sh
+export sample=`head -n +${SLURM_ARRAY_TASK_ID} $IN_LIST | tail -n 1`
+
+# execute command
+~/software/bbmap/bbduk.sh in1=$READS_DIR/${sample}_R1.fastq.gz  in2=$READS_DIR/${sample}_R2.fastq.gz  out1=$OUT_DIR/${sample}_bbduck_1.fastq out2=$OUT_DIR/${sample}_bbduck_2.fastq ref=$REF_FILE ktrim=r k=23 mink=11 hdist=1 tpe tbo
+
+# for samples ending in _001
+#~/software/bbmap/bbduk.sh in1=$READS_DIR/${sample}_R1_001.fastq.gz  in2=$READS_DIR/${sample}_R2_001.fastq.gz  out1=$OUT_DIR/${sample}_bbduck_1.fastq out2=$OUT_DIR/${sample}_bbduck_2.fastq ref=$REF_FILE ktrim=r k=23 mink=11 hdist=1 tpe tbo
