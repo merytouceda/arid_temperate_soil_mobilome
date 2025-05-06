@@ -1,0 +1,43 @@
+#!/bin/bash -l
+#SBATCH --job-name=checkv
+#SBATCH --account=barberan
+#SBATCH --output=%j.out
+#SBATCH --error=%j.err
+#SBATCH --mail-user=mtoucedasuarez@hpc.arizona.edu                                                                                                                                                         
+#SBATCH --partition=standard  
+#SBATCH --time=06:00:00
+#SBATCH --ntasks=1
+#SBATCH --nodes=1
+#SBATCH --cpus-per-task=10
+#SBATCH --mem-per-cpu=4000
+
+
+# load job configuration
+cd /groups/egornish/mtoucedasuarez/scripts/jobs/mge/base/checkv
+source config.sh
+
+# load environment
+#source $CONDA/etc/profile.d/conda.sh
+module load anaconda
+source ~/.bashrc && conda activate
+conda activate viral 
+
+# echo for log
+echo "job started"; hostname; date
+
+# export variable for env
+export CHECKVDB=$CHECKVDB
+
+# Get sample ID
+export SAMPLE=`head -n +${SLURM_ARRAY_TASK_ID} $IN_LIST | tail -n 1`
+
+# run checkV on VS2 output
+FILE="$GENOMAD_OUTDIR/${SAMPLE}.contigs_virus.fna"
+
+MY_CH_OUT="$GENOMAD_OUTDIR/${SAMPLE}_CheckV"
+checkv end_to_end $FILE $MY_CH_OUT -t 10
+
+rm -r $MY_CH_OUT/tmp
+
+# echo for log
+echo "job done"; date

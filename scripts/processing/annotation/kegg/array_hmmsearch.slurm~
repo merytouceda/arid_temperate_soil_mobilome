@@ -1,0 +1,29 @@
+#!/bin/bash -l                                                                                                                                                               
+#SBATCH --job-name=all-hmm                                                                                                                                           
+#SBATCH --account=gornish
+#SBATCH --partition=standard
+#SBATCH --output=%x.out                                                                                                                                               
+#SBATCH --error=%x.err                                                                                                                                               
+#SBATCH --mail-user=mtoucedasuarez@hpc.arizona.edu                                        
+#SBATCH --ntasks=1
+#SBATCH --nodes=1
+#SBATCH --mem-per-cpu=4000
+#SBATCH --cpus-per-task=40
+#SBATCH --time=100:00:00
+
+# Load modules
+module load openmpi3/3.1.4
+
+
+source /groups/egornish/mtoucedasuarez/scripts/jobs/mge/base/annotation/kegg/config.sh
+
+export FILE=`head -n +${SLURM_ARRAY_TASK_ID} $IN_LIST | tail -n 1`
+
+# hmmsearch [options] <hmmfile> <seqdb>                                                                                                                                                                                                                                       
+cd $OUT_DIR
+
+for hmm_file in $KEGG_DIR/*.hmm; do
+    
+    # no mpi
+    /opt/ohpc/pub/apps/hmmer/3.4/bin/hmmsearch -E 0.00001 --tblout ${hmm_file}_base_plasmid.txt -o $OUT_DIR/${FILE}_kegg_hmmlog.txt $hmm_file $IN_DIR/$FILE 2>${FILE}.err 1>${FILE}.out
+done

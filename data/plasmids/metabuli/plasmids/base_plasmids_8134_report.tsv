@@ -1,0 +1,24 @@
+30.0000	6	6	no rank	0	unclassified
+70.0000	14	0	no rank	1	root
+70.0000	14	0	no rank	131567	  cellular organisms
+70.0000	14	0	superkingdom	2	    Bacteria
+50.0000	10	0	clade	1783272	      Terrabacteria group
+50.0000	10	0	phylum	201174	        Actinomycetota
+50.0000	10	0	class	1760	          Actinomycetes
+50.0000	10	0	order	85011	            Kitasatosporales
+50.0000	10	0	family	2062	              Streptomycetaceae
+50.0000	10	2	genus	1883	                Streptomyces
+40.0000	8	8	no rank	2593676	                  unclassified Streptomyces
+10.0000	2	0	phylum	1224	      Pseudomonadota
+10.0000	2	0	class	28216	        Betaproteobacteria
+10.0000	2	0	order	80840	          Burkholderiales
+10.0000	2	0	family	75682	            Oxalobacteraceae
+10.0000	2	0	genus	963	              Herbaspirillum
+10.0000	2	2	no rank	2624150	                unclassified Herbaspirillum
+10.0000	2	0	clade	1783270	      FCB group
+10.0000	2	0	clade	68336	        Bacteroidota/Chlorobiota group
+10.0000	2	0	phylum	976	          Bacteroidota
+10.0000	2	0	class	1853228	            Chitinophagia
+10.0000	2	0	order	1853229	              Chitinophagales
+10.0000	2	0	family	563835	                Chitinophagaceae
+10.0000	2	2	genus	79328	                  Chitinophaga

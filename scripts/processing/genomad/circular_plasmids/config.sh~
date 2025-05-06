@@ -1,0 +1,5 @@
+#!/bin/bash -l
+IN_LIST="/groups/egornish/mtoucedasuarez/scripts/jobs/mge/base/list_samples_aridtemp_unique.txt"
+OUT_DIR="/xdisk/egornish/mtoucedasuarez/base/assembly/all_contigs/headtails"
+IN_DIR="/xdisk/egornish/mtoucedasuarez/base/assembly/all_contigs"
+SCRIPT_DIR="/groups/egornish/mtoucedasuarez/scripts/jobs/mge/base/genomad/circular_plasmids"

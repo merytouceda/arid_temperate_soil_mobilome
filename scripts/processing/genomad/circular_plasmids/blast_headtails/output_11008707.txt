@@ -1,0 +1,11 @@
+
+
+Building a new DB, current time: 12/13/2024 19:47:32
+New DB name:   /xdisk/egornish/mtoucedasuarez/base/combined_assembly/contigs/headtails/blast_dbs/13276_heads_db
+New DB title:  /xdisk/egornish/mtoucedasuarez/base/combined_assembly/contigs/headtails/13276_heads.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 444280 sequences in 6.04632 seconds.
+
+

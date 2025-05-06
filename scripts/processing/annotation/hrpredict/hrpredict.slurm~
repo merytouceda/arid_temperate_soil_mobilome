@@ -1,0 +1,25 @@
+#!/bin/bash
+
+#SBATCH --job-name=hrpredict
+#SBATCH --output=output_%x.txt
+#SBATCH --error=errors_%x.txt
+#SBATCH --partition=standard
+#SBATCH --ntasks=1
+#SBATCH --nodes=1
+#SBATCH --mem-per-cpu=4000
+#SBATCH --cpus-per-task=40
+#SBATCH --time=40:00:00
+#SBATCH --account=gornish
+
+#source ~/.bashrc
+#module load anaconda
+source ~/.bashrc && conda activate
+conda activate HRPredict
+
+OUT_DIR="/xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict"
+IN_DIR="/xdisk/egornish/mtoucedasuarez/mge_urban/local/cluster_ptus"
+SOFTWARE_DIR="/groups/egornish/software/HRPredict"
+
+
+python3 $SOFTWARE_DIR/HRPredict.py -i $IN_DIR/urban_plasmid_ptus_rep_seq.fasta -m $SOFTWARE_DIR/model/ -r $SOFTWARE_DIR/reference/ -o $OUT_DIR
+

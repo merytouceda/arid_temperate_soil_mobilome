@@ -1,0 +1,36 @@
+#!/bin/bash
+# --------------------------------------------------
+# Request resources here
+# --------------------------------------------------
+#SBATCH --job-name=coverm_votus
+#SBATCH --output=%x.out
+#SBATCH --error=%x.err 
+#SBATCH --account=barberan
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user=mtoucedasuarez@hpc.arizona.edu
+#SBATCH --partition=standard
+#SBATCH --ntasks=94
+#SBATCH --nodes=1
+#SBATCH --mem=470gb
+#SBATCH --time=24:00:00
+
+# --------------------------------------------------
+# Load modules here
+# --------------------------------------------------
+module load anaconda
+source ~/.bashrc && conda activate
+conda activate coverm
+# --------------------------------------------------
+# Execute commands here
+# --------------------------------------------------
+
+#cd /xdisk/egornish/mtoucedasuarez/base/mapping_contigs/combined/virus/genomad_sequences
+cd /xdisk/egornish/mtoucedasuarez/base/mapping_contigs/combined/virus/genomad_sequences/votus
+# require >=95% identity and 45 bp overlap, generate gene count table
+
+TMPDIR=. coverm contig -b *.bam \
+-t 94 \
+-m count \
+--min-read-percent-identity 0.95 \
+--min-read-aligned-length 45 \
+-o votus_genomad_count_table.txt

@@ -1,0 +1,1580 @@
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/10716_k127_552107/10716_k127_552107.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/10716_k127_552107/10716_k127_552107.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/10716_k127_88909/10716_k127_88909.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/10716_k127_88909/10716_k127_88909.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/10716_k127_159947/10716_k127_159947.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/10716_k127_159947/10716_k127_159947.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/10716_k127_601850/10716_k127_601850.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/10716_k127_601850/10716_k127_601850.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/10716_k127_259362/10716_k127_259362.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/10716_k127_259362/10716_k127_259362.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/10716_k127_455504/10716_k127_455504.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/10716_k127_455504/10716_k127_455504.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/10716_k127_128794/10716_k127_128794.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/10716_k127_128794/10716_k127_128794.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/10716_k127_516545/10716_k127_516545.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/10716_k127_516545/10716_k127_516545.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/10716_k127_252310/10716_k127_252310.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/10716_k127_252310/10716_k127_252310.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/10716_k127_64328/10716_k127_64328.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/10716_k127_64328/10716_k127_64328.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/10716_k127_106072/10716_k127_106072.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/10716_k127_106072/10716_k127_106072.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12459_k127_568651/12459_k127_568651.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12459_k127_568651/12459_k127_568651.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12459_k127_81206/12459_k127_81206.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12459_k127_81206/12459_k127_81206.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12459_k127_320233/12459_k127_320233.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12459_k127_320233/12459_k127_320233.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12459_k127_268461/12459_k127_268461.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12459_k127_268461/12459_k127_268461.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12459_k127_551335/12459_k127_551335.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12459_k127_551335/12459_k127_551335.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12459_k127_515298/12459_k127_515298.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12459_k127_515298/12459_k127_515298.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12459_k127_556955/12459_k127_556955.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12459_k127_556955/12459_k127_556955.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12459_k127_318213/12459_k127_318213.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12459_k127_318213/12459_k127_318213.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12459_k127_174369/12459_k127_174369.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12459_k127_174369/12459_k127_174369.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12459_k127_254445/12459_k127_254445.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12459_k127_254445/12459_k127_254445.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12461_k127_472129/12461_k127_472129.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12461_k127_472129/12461_k127_472129.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12461_k127_221660/12461_k127_221660.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12461_k127_221660/12461_k127_221660.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12461_k127_121071/12461_k127_121071.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12461_k127_121071/12461_k127_121071.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12461_k127_442905/12461_k127_442905.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12461_k127_442905/12461_k127_442905.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12461_k127_141903/12461_k127_141903.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12461_k127_141903/12461_k127_141903.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12467_k127_726467/12467_k127_726467.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12467_k127_726467/12467_k127_726467.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12471_k127_652101/12471_k127_652101.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12471_k127_652101/12471_k127_652101.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12473_k127_97678/12473_k127_97678.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12473_k127_97678/12473_k127_97678.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12473_k127_270499/12473_k127_270499.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12473_k127_270499/12473_k127_270499.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12473_k127_336201/12473_k127_336201.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12473_k127_336201/12473_k127_336201.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12473_k127_319648/12473_k127_319648.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12473_k127_319648/12473_k127_319648.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12473_k127_100352/12473_k127_100352.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12473_k127_100352/12473_k127_100352.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12473_k127_601446/12473_k127_601446.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12473_k127_601446/12473_k127_601446.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12477_k127_493658/12477_k127_493658.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12477_k127_493658/12477_k127_493658.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12477_k127_13805/12477_k127_13805.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12477_k127_13805/12477_k127_13805.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12477_k127_790123/12477_k127_790123.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12477_k127_790123/12477_k127_790123.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12477_k127_1059994/12477_k127_1059994.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12477_k127_1059994/12477_k127_1059994.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12560_k127_296754/12560_k127_296754.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12560_k127_296754/12560_k127_296754.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12560_k127_50418/12560_k127_50418.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12560_k127_50418/12560_k127_50418.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12560_k127_16556/12560_k127_16556.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12560_k127_16556/12560_k127_16556.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12570_k127_317225/12570_k127_317225.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12570_k127_317225/12570_k127_317225.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12570_k127_262413/12570_k127_262413.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12570_k127_262413/12570_k127_262413.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12570_k127_457612/12570_k127_457612.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12570_k127_457612/12570_k127_457612.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12570_k127_481830/12570_k127_481830.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12570_k127_481830/12570_k127_481830.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12570_k127_54627/12570_k127_54627.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12570_k127_54627/12570_k127_54627.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12570_k127_379925/12570_k127_379925.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12570_k127_379925/12570_k127_379925.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12570_k127_339531/12570_k127_339531.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12570_k127_339531/12570_k127_339531.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12570_k127_500687/12570_k127_500687.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12570_k127_500687/12570_k127_500687.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12570_k127_31153/12570_k127_31153.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12570_k127_31153/12570_k127_31153.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12860_k127_361505/12860_k127_361505.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12860_k127_361505/12860_k127_361505.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12860_k127_130837/12860_k127_130837.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12860_k127_130837/12860_k127_130837.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12884_k127_1231485/12884_k127_1231485.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12884_k127_1231485/12884_k127_1231485.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12884_k127_1582124/12884_k127_1582124.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12884_k127_1582124/12884_k127_1582124.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12886_k127_1119553/12886_k127_1119553.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12886_k127_1119553/12886_k127_1119553.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12886_k127_72876/12886_k127_72876.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12886_k127_72876/12886_k127_72876.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12886_k127_348325/12886_k127_348325.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12886_k127_348325/12886_k127_348325.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12886_k127_925464/12886_k127_925464.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12886_k127_925464/12886_k127_925464.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12886_k127_955923/12886_k127_955923.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12886_k127_955923/12886_k127_955923.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12886_k127_87115/12886_k127_87115.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12886_k127_87115/12886_k127_87115.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12886_k127_509739/12886_k127_509739.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12886_k127_509739/12886_k127_509739.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12886_k127_1278529/12886_k127_1278529.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12886_k127_1278529/12886_k127_1278529.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12886_k127_1379454/12886_k127_1379454.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12886_k127_1379454/12886_k127_1379454.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12886_k127_1413652/12886_k127_1413652.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12886_k127_1413652/12886_k127_1413652.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12886_k127_651729/12886_k127_651729.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12886_k127_651729/12886_k127_651729.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12886_k127_1399353/12886_k127_1399353.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12886_k127_1399353/12886_k127_1399353.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12891_k127_681264/12891_k127_681264.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12891_k127_681264/12891_k127_681264.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12891_k127_655777/12891_k127_655777.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12891_k127_655777/12891_k127_655777.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12891_k127_717685/12891_k127_717685.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12891_k127_717685/12891_k127_717685.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12891_k127_745445/12891_k127_745445.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12891_k127_745445/12891_k127_745445.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12891_k127_872124/12891_k127_872124.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12891_k127_872124/12891_k127_872124.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12891_k127_80852/12891_k127_80852.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12891_k127_80852/12891_k127_80852.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12891_k127_395169/12891_k127_395169.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12891_k127_395169/12891_k127_395169.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12891_k127_642187/12891_k127_642187.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12891_k127_642187/12891_k127_642187.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12891_k127_871524/12891_k127_871524.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12891_k127_871524/12891_k127_871524.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12891_k127_463446/12891_k127_463446.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12891_k127_463446/12891_k127_463446.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12903_k127_590755/12903_k127_590755.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12903_k127_590755/12903_k127_590755.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12903_k127_37869/12903_k127_37869.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12903_k127_37869/12903_k127_37869.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12903_k127_815246/12903_k127_815246.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12903_k127_815246/12903_k127_815246.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12903_k127_39815/12903_k127_39815.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12903_k127_39815/12903_k127_39815.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12903_k127_32755/12903_k127_32755.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12903_k127_32755/12903_k127_32755.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12903_k127_610479/12903_k127_610479.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12903_k127_610479/12903_k127_610479.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12903_k127_1058703/12903_k127_1058703.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12903_k127_1058703/12903_k127_1058703.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12903_k127_461977/12903_k127_461977.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/12903_k127_461977/12903_k127_461977.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/13729_k127_60514/13729_k127_60514.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/13729_k127_60514/13729_k127_60514.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/13729_k127_561107/13729_k127_561107.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/13729_k127_561107/13729_k127_561107.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/13729_k127_150070/13729_k127_150070.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/13729_k127_150070/13729_k127_150070.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/13729_k127_337450/13729_k127_337450.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/13729_k127_337450/13729_k127_337450.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/13729_k127_1005166/13729_k127_1005166.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/13729_k127_1005166/13729_k127_1005166.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/13729_k127_737023/13729_k127_737023.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/13729_k127_737023/13729_k127_737023.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/13729_k127_30716/13729_k127_30716.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/13729_k127_30716/13729_k127_30716.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/13729_k127_585978/13729_k127_585978.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/13729_k127_585978/13729_k127_585978.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/13733_k127_449869/13733_k127_449869.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/13733_k127_449869/13733_k127_449869.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/14185_k127_22280/14185_k127_22280.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/14185_k127_22280/14185_k127_22280.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/14187_k127_790244/14187_k127_790244.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/14187_k127_790244/14187_k127_790244.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19467_k127_438967/19467_k127_438967.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19467_k127_438967/19467_k127_438967.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19479_k127_589262/19479_k127_589262.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19479_k127_589262/19479_k127_589262.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19479_k127_462212/19479_k127_462212.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19479_k127_462212/19479_k127_462212.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19479_k127_289076/19479_k127_289076.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19479_k127_289076/19479_k127_289076.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19479_k127_469904/19479_k127_469904.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19479_k127_469904/19479_k127_469904.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19487_k127_463643/19487_k127_463643.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19487_k127_463643/19487_k127_463643.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19487_k127_439322/19487_k127_439322.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19487_k127_439322/19487_k127_439322.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19487_k127_649941/19487_k127_649941.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19487_k127_649941/19487_k127_649941.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19487_k127_296447/19487_k127_296447.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19487_k127_296447/19487_k127_296447.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19493_k127_40012/19493_k127_40012.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19493_k127_40012/19493_k127_40012.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19493_k127_401134/19493_k127_401134.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19493_k127_401134/19493_k127_401134.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19493_k127_297804/19493_k127_297804.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19493_k127_297804/19493_k127_297804.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19493_k127_444310/19493_k127_444310.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19493_k127_444310/19493_k127_444310.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19493_k127_310150/19493_k127_310150.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19493_k127_310150/19493_k127_310150.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19493_k127_62462/19493_k127_62462.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19493_k127_62462/19493_k127_62462.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19497_k127_437651/19497_k127_437651.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19497_k127_437651/19497_k127_437651.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19497_k127_41453/19497_k127_41453.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19497_k127_41453/19497_k127_41453.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19497_k127_841554/19497_k127_841554.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19497_k127_841554/19497_k127_841554.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19497_k127_992452/19497_k127_992452.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19497_k127_992452/19497_k127_992452.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19497_k127_496195/19497_k127_496195.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19497_k127_496195/19497_k127_496195.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19499_k127_218057/19499_k127_218057.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19499_k127_218057/19499_k127_218057.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19503_k127_457683/19503_k127_457683.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19503_k127_457683/19503_k127_457683.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19503_k127_551058/19503_k127_551058.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19503_k127_551058/19503_k127_551058.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19503_k127_437636/19503_k127_437636.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19503_k127_437636/19503_k127_437636.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19503_k127_229822/19503_k127_229822.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19503_k127_229822/19503_k127_229822.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19511_k127_753755/19511_k127_753755.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19511_k127_753755/19511_k127_753755.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19511_k127_869112/19511_k127_869112.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19511_k127_869112/19511_k127_869112.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7035_k127_993469/7035_k127_993469.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7035_k127_993469/7035_k127_993469.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7035_k127_173742/7035_k127_173742.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7035_k127_173742/7035_k127_173742.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_311616/7039_k127_311616.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_311616/7039_k127_311616.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_415001/7039_k127_415001.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_415001/7039_k127_415001.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_335965/7039_k127_335965.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_335965/7039_k127_335965.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_9441/7039_k127_9441.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_9441/7039_k127_9441.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_1113961/7039_k127_1113961.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_1113961/7039_k127_1113961.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_1517776/7039_k127_1517776.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_1517776/7039_k127_1517776.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_1389598/7039_k127_1389598.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_1389598/7039_k127_1389598.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_790535/7039_k127_790535.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_790535/7039_k127_790535.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_417796/7039_k127_417796.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_417796/7039_k127_417796.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_219461/7039_k127_219461.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_219461/7039_k127_219461.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_1035533/7039_k127_1035533.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_1035533/7039_k127_1035533.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_32541/7039_k127_32541.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_32541/7039_k127_32541.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_17300/7039_k127_17300.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_17300/7039_k127_17300.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_351106/7039_k127_351106.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_351106/7039_k127_351106.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_1333049/7039_k127_1333049.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_1333049/7039_k127_1333049.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_1114886/7039_k127_1114886.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_1114886/7039_k127_1114886.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_578813/7039_k127_578813.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_578813/7039_k127_578813.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_1119459/7039_k127_1119459.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7039_k127_1119459/7039_k127_1119459.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7041_k127_493335/7041_k127_493335.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7041_k127_493335/7041_k127_493335.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7043_k127_8662/7043_k127_8662.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7043_k127_8662/7043_k127_8662.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7067_k127_206371/7067_k127_206371.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7067_k127_206371/7067_k127_206371.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7069_k127_206291/7069_k127_206291.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7069_k127_206291/7069_k127_206291.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7077_k127_647222/7077_k127_647222.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7077_k127_647222/7077_k127_647222.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7077_k127_823369/7077_k127_823369.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7077_k127_823369/7077_k127_823369.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7077_k127_1288589/7077_k127_1288589.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7077_k127_1288589/7077_k127_1288589.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7077_k127_708445/7077_k127_708445.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7077_k127_708445/7077_k127_708445.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7077_k127_148015/7077_k127_148015.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7077_k127_148015/7077_k127_148015.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7083_k127_30148/7083_k127_30148.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7083_k127_30148/7083_k127_30148.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7083_k127_116877/7083_k127_116877.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7083_k127_116877/7083_k127_116877.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7083_k127_814542/7083_k127_814542.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7083_k127_814542/7083_k127_814542.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7091_k127_350890/7091_k127_350890.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7091_k127_350890/7091_k127_350890.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7091_k127_690302/7091_k127_690302.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7091_k127_690302/7091_k127_690302.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7091_k127_508386/7091_k127_508386.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7091_k127_508386/7091_k127_508386.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7091_k127_487396/7091_k127_487396.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7091_k127_487396/7091_k127_487396.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7091_k127_1460943/7091_k127_1460943.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7091_k127_1460943/7091_k127_1460943.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7091_k127_1209948/7091_k127_1209948.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7091_k127_1209948/7091_k127_1209948.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7091_k127_1046632/7091_k127_1046632.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7091_k127_1046632/7091_k127_1046632.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7091_k127_1530120/7091_k127_1530120.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7091_k127_1530120/7091_k127_1530120.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7091_k127_701414/7091_k127_701414.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7091_k127_701414/7091_k127_701414.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7093_k127_728972/7093_k127_728972.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7093_k127_728972/7093_k127_728972.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7093_k127_71781/7093_k127_71781.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7093_k127_71781/7093_k127_71781.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7093_k127_500614/7093_k127_500614.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7093_k127_500614/7093_k127_500614.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7093_k127_99933/7093_k127_99933.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7093_k127_99933/7093_k127_99933.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7093_k127_301443/7093_k127_301443.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7093_k127_301443/7093_k127_301443.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7093_k127_1202435/7093_k127_1202435.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7093_k127_1202435/7093_k127_1202435.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7093_k127_1084601/7093_k127_1084601.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7093_k127_1084601/7093_k127_1084601.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_233062/7827_k127_233062.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_233062/7827_k127_233062.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_475908/7827_k127_475908.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_475908/7827_k127_475908.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_473413/7827_k127_473413.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_473413/7827_k127_473413.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_195262/7827_k127_195262.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_195262/7827_k127_195262.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_481286/7827_k127_481286.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_481286/7827_k127_481286.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_623316/7827_k127_623316.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_623316/7827_k127_623316.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_132006/7827_k127_132006.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_132006/7827_k127_132006.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_398371/7827_k127_398371.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_398371/7827_k127_398371.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_660359/7827_k127_660359.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_660359/7827_k127_660359.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_687888/7827_k127_687888.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_687888/7827_k127_687888.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_161343/7827_k127_161343.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_161343/7827_k127_161343.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_541314/7827_k127_541314.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_541314/7827_k127_541314.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_541689/7827_k127_541689.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_541689/7827_k127_541689.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_130185/7827_k127_130185.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_130185/7827_k127_130185.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_313741/7827_k127_313741.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_313741/7827_k127_313741.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_247410/7827_k127_247410.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_247410/7827_k127_247410.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_19463/7827_k127_19463.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_19463/7827_k127_19463.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_585370/7827_k127_585370.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_585370/7827_k127_585370.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_644234/7827_k127_644234.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_644234/7827_k127_644234.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_627404/7827_k127_627404.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7827_k127_627404/7827_k127_627404.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7829_k127_496437/7829_k127_496437.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7829_k127_496437/7829_k127_496437.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7831_k127_818505/7831_k127_818505.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7831_k127_818505/7831_k127_818505.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7831_k127_505076/7831_k127_505076.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7831_k127_505076/7831_k127_505076.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7831_k127_159275/7831_k127_159275.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7831_k127_159275/7831_k127_159275.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7831_k127_316150/7831_k127_316150.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7831_k127_316150/7831_k127_316150.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7831_k127_437951/7831_k127_437951.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7831_k127_437951/7831_k127_437951.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7831_k127_36844/7831_k127_36844.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7831_k127_36844/7831_k127_36844.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7831_k127_119815/7831_k127_119815.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7831_k127_119815/7831_k127_119815.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7831_k127_708812/7831_k127_708812.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7831_k127_708812/7831_k127_708812.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7831_k127_130897/7831_k127_130897.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7831_k127_130897/7831_k127_130897.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7831_k127_414793/7831_k127_414793.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7831_k127_414793/7831_k127_414793.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7831_k127_243590/7831_k127_243590.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7831_k127_243590/7831_k127_243590.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7833_k127_469205/7833_k127_469205.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7833_k127_469205/7833_k127_469205.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7833_k127_8249/7833_k127_8249.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7833_k127_8249/7833_k127_8249.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7833_k127_312855/7833_k127_312855.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7833_k127_312855/7833_k127_312855.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7833_k127_371865/7833_k127_371865.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7833_k127_371865/7833_k127_371865.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_598015/7843_k127_598015.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_598015/7843_k127_598015.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_18400/7843_k127_18400.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_18400/7843_k127_18400.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_362220/7843_k127_362220.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_362220/7843_k127_362220.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_576421/7843_k127_576421.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_576421/7843_k127_576421.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_344790/7843_k127_344790.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_344790/7843_k127_344790.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_13500/7843_k127_13500.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_13500/7843_k127_13500.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_529490/7843_k127_529490.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_529490/7843_k127_529490.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_84559/7843_k127_84559.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_84559/7843_k127_84559.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_157958/7843_k127_157958.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_157958/7843_k127_157958.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_203348/7843_k127_203348.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_203348/7843_k127_203348.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_87701/7843_k127_87701.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_87701/7843_k127_87701.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_540024/7843_k127_540024.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_540024/7843_k127_540024.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_336642/7843_k127_336642.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_336642/7843_k127_336642.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_463962/7843_k127_463962.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_463962/7843_k127_463962.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_377147/7843_k127_377147.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_377147/7843_k127_377147.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_73593/7843_k127_73593.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_73593/7843_k127_73593.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_207265/7843_k127_207265.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_207265/7843_k127_207265.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_547669/7843_k127_547669.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_547669/7843_k127_547669.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_525974/7843_k127_525974.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_525974/7843_k127_525974.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_38767/7843_k127_38767.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_38767/7843_k127_38767.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_333719/7843_k127_333719.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_333719/7843_k127_333719.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_536443/7843_k127_536443.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_536443/7843_k127_536443.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_226909/7843_k127_226909.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_226909/7843_k127_226909.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_465621/7843_k127_465621.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7843_k127_465621/7843_k127_465621.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7847_k127_709703/7847_k127_709703.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7847_k127_709703/7847_k127_709703.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7847_k127_28214/7847_k127_28214.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7847_k127_28214/7847_k127_28214.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7847_k127_327163/7847_k127_327163.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7847_k127_327163/7847_k127_327163.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7847_k127_658645/7847_k127_658645.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7847_k127_658645/7847_k127_658645.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7847_k127_416649/7847_k127_416649.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7847_k127_416649/7847_k127_416649.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7847_k127_612149/7847_k127_612149.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7847_k127_612149/7847_k127_612149.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7847_k127_529046/7847_k127_529046.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7847_k127_529046/7847_k127_529046.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7847_k127_383627/7847_k127_383627.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7847_k127_383627/7847_k127_383627.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7847_k127_153851/7847_k127_153851.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7847_k127_153851/7847_k127_153851.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7847_k127_46871/7847_k127_46871.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7847_k127_46871/7847_k127_46871.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7847_k127_324991/7847_k127_324991.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7847_k127_324991/7847_k127_324991.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7851_k127_462089/7851_k127_462089.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7851_k127_462089/7851_k127_462089.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7853_k127_163756/7853_k127_163756.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7853_k127_163756/7853_k127_163756.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7853_k127_221461/7853_k127_221461.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7853_k127_221461/7853_k127_221461.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7853_k127_442279/7853_k127_442279.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7853_k127_442279/7853_k127_442279.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7853_k127_24857/7853_k127_24857.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7853_k127_24857/7853_k127_24857.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7853_k127_197776/7853_k127_197776.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7853_k127_197776/7853_k127_197776.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7853_k127_148770/7853_k127_148770.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7853_k127_148770/7853_k127_148770.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7853_k127_340066/7853_k127_340066.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7853_k127_340066/7853_k127_340066.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7853_k127_41717/7853_k127_41717.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7853_k127_41717/7853_k127_41717.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7853_k127_42169/7853_k127_42169.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7853_k127_42169/7853_k127_42169.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7855_k127_47503/7855_k127_47503.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7855_k127_47503/7855_k127_47503.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7855_k127_398773/7855_k127_398773.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7855_k127_398773/7855_k127_398773.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7857_k127_73522/7857_k127_73522.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7857_k127_73522/7857_k127_73522.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7857_k127_247830/7857_k127_247830.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7857_k127_247830/7857_k127_247830.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7857_k127_130557/7857_k127_130557.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7857_k127_130557/7857_k127_130557.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7857_k127_256351/7857_k127_256351.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7857_k127_256351/7857_k127_256351.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7857_k127_6863/7857_k127_6863.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7857_k127_6863/7857_k127_6863.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7857_k127_380835/7857_k127_380835.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7857_k127_380835/7857_k127_380835.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7857_k127_172887/7857_k127_172887.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7857_k127_172887/7857_k127_172887.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7857_k127_87377/7857_k127_87377.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7857_k127_87377/7857_k127_87377.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7857_k127_383244/7857_k127_383244.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7857_k127_383244/7857_k127_383244.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7857_k127_355958/7857_k127_355958.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7857_k127_355958/7857_k127_355958.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7857_k127_330249/7857_k127_330249.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7857_k127_330249/7857_k127_330249.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7857_k127_72459/7857_k127_72459.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7857_k127_72459/7857_k127_72459.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7882_k127_263801/7882_k127_263801.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7882_k127_263801/7882_k127_263801.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7888_k127_92963/7888_k127_92963.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7888_k127_92963/7888_k127_92963.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7888_k127_331520/7888_k127_331520.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7888_k127_331520/7888_k127_331520.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7892_k127_232800/7892_k127_232800.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7892_k127_232800/7892_k127_232800.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7892_k127_435700/7892_k127_435700.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7892_k127_435700/7892_k127_435700.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7894_k127_703253/7894_k127_703253.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7894_k127_703253/7894_k127_703253.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7894_k127_773015/7894_k127_773015.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7894_k127_773015/7894_k127_773015.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7894_k127_709170/7894_k127_709170.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7894_k127_709170/7894_k127_709170.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7894_k127_559690/7894_k127_559690.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7894_k127_559690/7894_k127_559690.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7898_k127_967289/7898_k127_967289.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7898_k127_967289/7898_k127_967289.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7900_k127_16460/7900_k127_16460.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7900_k127_16460/7900_k127_16460.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7900_k127_153976/7900_k127_153976.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7900_k127_153976/7900_k127_153976.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7900_k127_544897/7900_k127_544897.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7900_k127_544897/7900_k127_544897.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7900_k127_138669/7900_k127_138669.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7900_k127_138669/7900_k127_138669.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7900_k127_325291/7900_k127_325291.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7900_k127_325291/7900_k127_325291.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7900_k127_170061/7900_k127_170061.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7900_k127_170061/7900_k127_170061.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7900_k127_349260/7900_k127_349260.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7900_k127_349260/7900_k127_349260.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7900_k127_149609/7900_k127_149609.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7900_k127_149609/7900_k127_149609.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7900_k127_371046/7900_k127_371046.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7900_k127_371046/7900_k127_371046.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7900_k127_445300/7900_k127_445300.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7900_k127_445300/7900_k127_445300.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7900_k127_327445/7900_k127_327445.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7900_k127_327445/7900_k127_327445.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7904_k127_849214/7904_k127_849214.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7904_k127_849214/7904_k127_849214.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7918_k127_56839/7918_k127_56839.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/7918_k127_56839/7918_k127_56839.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8088_k127_142294/8088_k127_142294.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8088_k127_142294/8088_k127_142294.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8088_k127_314092/8088_k127_314092.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8088_k127_314092/8088_k127_314092.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8088_k127_55910/8088_k127_55910.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8088_k127_55910/8088_k127_55910.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/10714_k127_35209/10714_k127_35209.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/10714_k127_35209/10714_k127_35209.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/10716_k127_380240/10716_k127_380240.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/10716_k127_380240/10716_k127_380240.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/10716_k127_15652/10716_k127_15652.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/10716_k127_15652/10716_k127_15652.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/10716_k127_150168/10716_k127_150168.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/10716_k127_150168/10716_k127_150168.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8088_k127_377979/8088_k127_377979.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8088_k127_377979/8088_k127_377979.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8108_k127_120423/8108_k127_120423.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8108_k127_120423/8108_k127_120423.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8108_k127_236550/8108_k127_236550.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8108_k127_236550/8108_k127_236550.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8108_k127_1880/8108_k127_1880.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8108_k127_1880/8108_k127_1880.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8108_k127_6062/8108_k127_6062.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8108_k127_6062/8108_k127_6062.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8128_k127_18450/8128_k127_18450.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8128_k127_18450/8128_k127_18450.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8132_k127_340998/8132_k127_340998.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8132_k127_340998/8132_k127_340998.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8132_k127_560558/8132_k127_560558.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8132_k127_560558/8132_k127_560558.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8132_k127_486746/8132_k127_486746.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8132_k127_486746/8132_k127_486746.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_76082/8134_k127_76082.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_76082/8134_k127_76082.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_6971/8134_k127_6971.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_6971/8134_k127_6971.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_222248/8134_k127_222248.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_222248/8134_k127_222248.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_154136/8134_k127_154136.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_154136/8134_k127_154136.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_286437/8134_k127_286437.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_286437/8134_k127_286437.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_229687/8134_k127_229687.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_229687/8134_k127_229687.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_49448/8134_k127_49448.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_49448/8134_k127_49448.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_240924/8134_k127_240924.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_240924/8134_k127_240924.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_17189/8134_k127_17189.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_17189/8134_k127_17189.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_234473/8134_k127_234473.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_234473/8134_k127_234473.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_115861/8134_k127_115861.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_115861/8134_k127_115861.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_70068/8134_k127_70068.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_70068/8134_k127_70068.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_150008/8134_k127_150008.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_150008/8134_k127_150008.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_48370/8134_k127_48370.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_48370/8134_k127_48370.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_142376/8134_k127_142376.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_142376/8134_k127_142376.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_164400/8134_k127_164400.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_164400/8134_k127_164400.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_284971/8134_k127_284971.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_284971/8134_k127_284971.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_16600/8134_k127_16600.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_16600/8134_k127_16600.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_297524/8134_k127_297524.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_297524/8134_k127_297524.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_39306/8134_k127_39306.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8134_k127_39306/8134_k127_39306.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8455_k127_431006/8455_k127_431006.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8455_k127_431006/8455_k127_431006.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8455_k127_471865/8455_k127_471865.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8455_k127_471865/8455_k127_471865.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8455_k127_116243/8455_k127_116243.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8455_k127_116243/8455_k127_116243.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8457_k127_9726/8457_k127_9726.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8457_k127_9726/8457_k127_9726.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8457_k127_2777/8457_k127_2777.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8457_k127_2777/8457_k127_2777.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8459_k127_746713/8459_k127_746713.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8459_k127_746713/8459_k127_746713.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8459_k127_250766/8459_k127_250766.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8459_k127_250766/8459_k127_250766.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8459_k127_99460/8459_k127_99460.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8459_k127_99460/8459_k127_99460.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8459_k127_1748136/8459_k127_1748136.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8459_k127_1748136/8459_k127_1748136.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8459_k127_1476709/8459_k127_1476709.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8459_k127_1476709/8459_k127_1476709.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8459_k127_1330900/8459_k127_1330900.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8459_k127_1330900/8459_k127_1330900.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8459_k127_482091/8459_k127_482091.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8459_k127_482091/8459_k127_482091.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8459_k127_1259934/8459_k127_1259934.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8459_k127_1259934/8459_k127_1259934.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8459_k127_887107/8459_k127_887107.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8459_k127_887107/8459_k127_887107.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8459_k127_1291992/8459_k127_1291992.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8459_k127_1291992/8459_k127_1291992.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8459_k127_1467959/8459_k127_1467959.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8459_k127_1467959/8459_k127_1467959.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8459_k127_1700043/8459_k127_1700043.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8459_k127_1700043/8459_k127_1700043.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8459_k127_1336686/8459_k127_1336686.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8459_k127_1336686/8459_k127_1336686.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8459_k127_783291/8459_k127_783291.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8459_k127_783291/8459_k127_783291.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8459_k127_1778097/8459_k127_1778097.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8459_k127_1778097/8459_k127_1778097.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8461_k127_329071/8461_k127_329071.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/8461_k127_329071/8461_k127_329071.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9434_k127_228964/9434_k127_228964.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9434_k127_228964/9434_k127_228964.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9442_k127_699889/9442_k127_699889.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9442_k127_699889/9442_k127_699889.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9444_k127_158793/9444_k127_158793.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9444_k127_158793/9444_k127_158793.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9444_k127_390580/9444_k127_390580.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9444_k127_390580/9444_k127_390580.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9450_k127_659925/9450_k127_659925.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9450_k127_659925/9450_k127_659925.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9452_k127_406415/9452_k127_406415.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9452_k127_406415/9452_k127_406415.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9452_k127_211818/9452_k127_211818.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9452_k127_211818/9452_k127_211818.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9452_k127_112238/9452_k127_112238.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9452_k127_112238/9452_k127_112238.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9456_k127_194837/9456_k127_194837.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9456_k127_194837/9456_k127_194837.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9460_k127_490636/9460_k127_490636.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9460_k127_490636/9460_k127_490636.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9464_k127_463773/9464_k127_463773.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9464_k127_463773/9464_k127_463773.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9464_k127_489493/9464_k127_489493.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9464_k127_489493/9464_k127_489493.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9488_k127_673071/9488_k127_673071.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9488_k127_673071/9488_k127_673071.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9488_k127_214319/9488_k127_214319.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9488_k127_214319/9488_k127_214319.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9488_k127_777982/9488_k127_777982.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9488_k127_777982/9488_k127_777982.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9488_k127_255295/9488_k127_255295.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9488_k127_255295/9488_k127_255295.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9488_k127_325610/9488_k127_325610.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9488_k127_325610/9488_k127_325610.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9494_k127_420787/9494_k127_420787.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9494_k127_420787/9494_k127_420787.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9496_k127_367917/9496_k127_367917.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9496_k127_367917/9496_k127_367917.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9496_k127_426823/9496_k127_426823.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9496_k127_426823/9496_k127_426823.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9496_k127_214040/9496_k127_214040.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9496_k127_214040/9496_k127_214040.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9496_k127_81426/9496_k127_81426.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9496_k127_81426/9496_k127_81426.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9496_k127_417658/9496_k127_417658.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9496_k127_417658/9496_k127_417658.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9500_k127_340441/9500_k127_340441.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9500_k127_340441/9500_k127_340441.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9500_k127_244416/9500_k127_244416.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9500_k127_244416/9500_k127_244416.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9500_k127_163604/9500_k127_163604.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9500_k127_163604/9500_k127_163604.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9500_k127_209691/9500_k127_209691.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9500_k127_209691/9500_k127_209691.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9500_k127_612099/9500_k127_612099.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9500_k127_612099/9500_k127_612099.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9500_k127_450490/9500_k127_450490.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9500_k127_450490/9500_k127_450490.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9500_k127_21233/9500_k127_21233.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9500_k127_21233/9500_k127_21233.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9500_k127_145844/9500_k127_145844.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9500_k127_145844/9500_k127_145844.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9500_k127_407781/9500_k127_407781.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9500_k127_407781/9500_k127_407781.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9500_k127_322747/9500_k127_322747.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9500_k127_322747/9500_k127_322747.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9504_k127_678508/9504_k127_678508.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9504_k127_678508/9504_k127_678508.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9504_k127_770337/9504_k127_770337.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9504_k127_770337/9504_k127_770337.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9510_k127_400139/9510_k127_400139.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9510_k127_400139/9510_k127_400139.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9510_k127_281638/9510_k127_281638.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9510_k127_281638/9510_k127_281638.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9510_k127_515363/9510_k127_515363.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9510_k127_515363/9510_k127_515363.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9510_k127_1194/9510_k127_1194.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9510_k127_1194/9510_k127_1194.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9524_k127_301227/9524_k127_301227.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9524_k127_301227/9524_k127_301227.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9528_k127_464046/9528_k127_464046.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9528_k127_464046/9528_k127_464046.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9528_k127_12122/9528_k127_12122.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9528_k127_12122/9528_k127_12122.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9528_k127_403596/9528_k127_403596.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9528_k127_403596/9528_k127_403596.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9528_k127_381862/9528_k127_381862.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9528_k127_381862/9528_k127_381862.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9528_k127_20020/9528_k127_20020.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9528_k127_20020/9528_k127_20020.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9528_k127_244795/9528_k127_244795.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9528_k127_244795/9528_k127_244795.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9588_k127_337427/9588_k127_337427.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/9588_k127_337427/9588_k127_337427.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/14187_k127_25340/14187_k127_25340.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/14187_k127_25340/14187_k127_25340.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19457_k127_277358/19457_k127_277358.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19457_k127_277358/19457_k127_277358.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025
+[tbl2asn-forever] Found Prokka input, correcting dates in .gbf|.sqn files.
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19463_k127_481679/19463_k127_481679.gbf
+[tbl2asn-forever] Correcting dates in /xdisk/egornish/mtoucedasuarez/base/annotation/hrpredict/tmp/tmp/19463_k127_481679/19463_k127_481679.sqn
+[tbl2asn-forever] Dates changed from 01-JAN-2019 to 21-FEB-2025

@@ -1,0 +1,29 @@
+#!/bin/bash -l                                                                                                                                                               
+#SBATCH --job-name=plasmid-hmm                                                                                                                                           
+#SBATCH --account=laurameredith
+#SBATCH --output=%x.out                                                                                                                                               
+#SBATCH --error=%x.err                                                                                                                                               
+#SBATCH --mail-user=mtoucedasuarez@hpc.arizona.edu                                        
+#SBATCH --partition=standard                                                                                                                                                 
+#SBATCH --time=5:00:00                                                                                                                                                      
+#SBATCH --ntasks=24                                                                                                                                                           
+#SBATCH --nodes=1                                                                                                                                                            
+#SBATCH --mem=120gb
+
+# Load modules
+module load openmpi3/3.1.4
+
+KEGG_DIR="/xdisk/egornish/mtoucedasuarez/databases/kegg/profiles"
+IN_DIR="/xdisk/egornish/mtoucedasuarez/base/prodigal/combined/plasmid_prodigal" # this should be a gene catalog
+OUT_DIR="/xdisk/egornish/mtoucedasuarez/base/annotation/kegg"
+
+# hmmsearch [options] <hmmfile> <seqdb>
+cd $OUT_DIR
+
+for hmm_file in $KEGG_DIR/*.hmm; do
+    # mpi
+    #srun /opt/ohpc/pub/apps/hmmer/3.3.2/bin/hmmsearch --mpi -E 0.00001 --tblout $OUT_DIR/mge_${hmm_file}.out -o $OUT_DIR/mge_kegg_hmmlog.txt $hmm_file $IN_DIR/all_mge_contigs.fa 2>hmmsearch.err 1>hmmsearch.out
+    
+    # no mpi
+    /opt/ohpc/pub/apps/hmmer/3.4/bin/hmmsearch -E 0.00001 --tblout ${hmm_file}_base_plasmid.txt -o $OUT_DIR/plasmid_kegg_hmmlog.txt $hmm_file $IN_DIR/base_plasmids_pro_rep_seq.fasta 2>hmmsearch_p.err 1>hmmsearch_p.out
+done

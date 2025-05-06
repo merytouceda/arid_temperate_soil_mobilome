@@ -1,0 +1,27 @@
+#!/bin/bash -l                                                                                                                                                               
+#SBATCH --job-name=parse_all-hmm                                                                                                                                           
+#SBATCH --account=gornish
+#SBATCH --partition=standard
+#SBATCH --output=%x.out                                                                                                                                               
+#SBATCH --error=%x.err                                                                                                                                               
+#SBATCH --mail-user=mtoucedasuarez@hpc.arizona.edu                                        
+#SBATCH --ntasks=1
+#SBATCH --nodes=1
+#SBATCH --mem-per-cpu=4000
+#SBATCH --cpus-per-task=40
+#SBATCH --time=2:00:00
+
+# Load modules
+#module load openmpi3/3.1.4
+module load anaconda
+source ~/.bashrc && conda activate
+conda activate viral
+
+source /groups/egornish/mtoucedasuarez/scripts/jobs/mge/base/annotation/kegg/parse/config.sh
+
+export FILE=`head -n +${SLURM_ARRAY_TASK_ID} $IN_LIST | tail -n 1`
+
+# hmmsearch [options] <hmmfile> <seqdb>                                                                                                                                                                                                                                       
+cd $KEGG_DIR
+
+python $SLURM_SUBMIT_DIR/parse_hmmsearch.py "*.hmm_${FILE}.txt" combined_${FILE}_kegg.csv

@@ -1,0 +1,5 @@
+#!/bin/bash -l   
+SLURM_SUBMIT_DIR="/groups/egornish/mtoucedasuarez/scripts/jobs/mge/base/annotation/kegg/parse"
+IN_LIST="/xdisk/egornish/mtoucedasuarez/base/prodigal/combined/catalog_parts/list_catalog_parts_1_2.txt"
+KEGG_DIR="/xdisk/egornish/mtoucedasuarez/databases/kegg/profiles"
+OUT_DIR="/xdisk/egornish/mtoucedasuarez/base/annotation/kegg"
